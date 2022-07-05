@@ -19,11 +19,12 @@ body {
 .card-container {
   background-color: rgb(255, 255, 255);
   width: 350px;
-  height: 450px;
-  margin: 200px auto 200px;
+  height: 400px;
+  margin: 200px auto 50px;
   text-align: center;
   border-radius: 5%;
   overflow: hidden;
+  position: relative;
 }
 
 .blue-pattern {
@@ -31,11 +32,16 @@ body {
 }
 
 .victor-image {
+  border: 5px solid #fff;
   border-radius: 50%;
+  display: block;
+  position: absolute;
+  top: 92px;
+  left: 122px;
 }
 
 .profile-info {
-  margin: 20px;
+  margin: 75px 0 20px;
   line-height: 2rem;
 }
 
