@@ -15,7 +15,6 @@
 body {
   background-color: var(--Dark-Cyan);
   position: relative;
-  width: 100vw;
 }
 
 .card-container {
