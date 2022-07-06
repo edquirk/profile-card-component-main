@@ -15,6 +15,7 @@
 body {
   background-color: var(--Dark-Cyan);
   position: relative;
+  overflow: hidden;
 }
 
 .card-container {
