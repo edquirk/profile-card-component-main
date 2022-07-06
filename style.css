@@ -30,14 +30,14 @@ body {
 
 .top-pattern {
   position: absolute;
-  left: -300px;
-  top: -650px;
+  right: 50%;
+  bottom: 50%;
 }
 
 .bottom-pattern {
   position: absolute;
-  right: -300px;
-  bottom: -650px;
+  left: 50%;
+  top: 50%;
 }
 
 .blue-pattern {
